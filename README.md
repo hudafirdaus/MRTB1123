@@ -1,2 +1,2 @@
 # MANB1123
-Lecture Notes for Course: Business Statistics for Data Science
+Data Set that is used in MANB 1123 (Business Statistics for Data Science) class
