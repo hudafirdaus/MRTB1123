@@ -1,2 +1,2 @@
-# MANB1123
-Data Set that is used in MANB 1123 (Business Statistics for Data Science) class
+# MRTB1123
+Data Set that is used in MRTB 1123 (Applied Statistics for Business Intelligence) class
